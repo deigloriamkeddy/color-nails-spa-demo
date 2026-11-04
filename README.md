@@ -1,5 +1,7 @@
 # Color Nails & Spa — website demo
 
+[![Color Nails & Spa — desktop light and mobile dark preview](docs/preview.jpg)](https://local-business-demo-collection.netlify.app/color-nails-spa/)
+
 An independent website concept for Color Nails & Spa in Federal Way, Washington.
 
 [View the current demo](https://local-business-demo-collection.netlify.app/color-nails-spa/) · [Public source](https://github.com/deigloriamkeddy/color-nails-spa-demo)
