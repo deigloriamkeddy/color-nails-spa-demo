@@ -1,0 +1,62 @@
+{
+  "slug": "color-nails-spa",
+  "short": "color",
+  "tag": "NAILS & SPA",
+  "layout": "color",
+  "accent": "#9b3f52",
+  "paper": "#faf0eb",
+  "dark": "#2b1b23",
+  "title": "Life looks better",
+  "italic": "with a little color.",
+  "intro": "Barely-there neutrals. A bold new shade. A design that\u2019s entirely your mood. Start your next nail-care moment in Federal Way.",
+  "hero": "nails-art",
+  "photos": [
+    "nails-pink",
+    "nails-care",
+    "spa"
+  ],
+  "services": [
+    [
+      "Manicure inquiry",
+      "Find out about shaping, polish, and available finishes."
+    ],
+    [
+      "Pedicure inquiry",
+      "Ask about the current pedicure menu and options."
+    ],
+    [
+      "Color & finish",
+      "Talk through your shade, finish, and inspiration."
+    ],
+    [
+      "Design consultation",
+      "Bring a reference and discuss the details of your look."
+    ]
+  ],
+  "story": "Pick a mood. Make it yours.",
+  "storyText": "Your manicure can be a small expression of your day. Explore a palette, save a little inspiration, and ask about the service that brings it to life.",
+  "cta": "Choose your nail moment",
+  "galleryTitle": "What\u2019s your color story?",
+  "filters": [
+    "All",
+    "Nails",
+    "Atmosphere"
+  ],
+  "source": "https://www.bestprosintown.com/wa/federal-way/color-nails-and-spa-/",
+  "findings": "BestProsInTown, Belliata and Waze corroborate the Federal Way address. A similarly named Kent search result would be incorrect. Current phone and operating status require direct confirmation.",
+  "questions": "Confirm phone, current menu, prices, seasonal offers and appointment policies.",
+  "name": "Color Nails & Spa",
+  "city": "Federal Way",
+  "address": "3440 SW 320th St, Federal Way, WA 98023",
+  "phone": "253-232-4848",
+  "id": 8,
+  "category": "Nail salon",
+  "pdd": "08_color_nails_spa_PDD.pdf",
+  "gallery": [
+    "nails-art",
+    "nails-pink",
+    "nails-care",
+    "spa"
+  ],
+  "date": "2026-11-03"
+}
